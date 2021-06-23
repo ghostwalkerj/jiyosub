@@ -1,4 +1,9 @@
 ![](images/Banner.gif)
+
+---
+<div align=center>
+
+Hello, I'm Joe, a full stack defi developer   
 <!--
 **jiyosub/jiyosub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
