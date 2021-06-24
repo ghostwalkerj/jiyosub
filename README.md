@@ -5,30 +5,38 @@
 
 ### Hello! I'm Joe, a full stack DeFi developer
 
-Technology I like to use: 
+Technology I like to use:
 
 <img src="images/mern.png" alt="mern" width="180"/>
 
-MERN has some nice features: 
+My first choice for web development and DeFi apps
+
+**MERN** has some excellent features:
+
 - Extensive & current libraries
 - Strong support for Solidity and Web3 development
 - Enables rapid prototyping
 - Facilitates elegant UI design
 - Complete set of testing tools and frameworks
-- Great for web development
+- Good community support
+- Large pool of skilled developers
 
-<!--
-**jiyosub/jiyosub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="images/pkat.png" alt="mern" width="180"/>
 
-Here are some ideas to get you started:
+**Python, Keras, Anaconda, TensorFlow**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For heavy backend lifting, I prefer the python stack.  Especially for any AI work, then you can add in the Anaconda suite, Keras Libraries, and TensorFlow (if doing deep neural networks).  Django is ok, but I'd probably use React for front end and Django as an interface to a python backend in the right circumstances.
+
+<img src="images/htgoz.png" alt="mern" width="180"/>
+
+**Hardhat, Truffle, Ganache, OpenZeppelin**
+For development of Smart Contracts, I am a fan of both the Hardhat and Truffle suites.  Each has some advantages: Hardhat is easy to use and you can fork chains quickly; Truffle has an elegant UI and some friendly debugging tools.  I won't pick either side in this debate.
+
+I believe in standing on the shoulders of giants.  In this case, OpenZeppelin's smart contract templates and interfaces.  Well tested and secure, so they are my go-to to start a project.
+
+<img src="images/jmjp.png" alt="mern" width="180"/>
+
+**Jenkins, Mocha, Jest, PyTest**
+Test Driven Development (TDD) and Continuous Integration (CI) with Jenkins.  The first thing I will do in a project is set up automated testing.  This becomes even more important when you consider the you can't update a smart contract after deployment.  Better get it right.
+
 </div>
