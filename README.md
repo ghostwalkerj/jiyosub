@@ -40,3 +40,18 @@ I believe in standing on the shoulders of giants.  In this case, OpenZeppelin's 
 Test Driven Development (TDD) and Continuous Integration (CI) with Jenkins.  The first thing I will do in a project is set up automated testing.  This becomes even more important when you consider the you can't update a smart contract after deployment.  Better get it right.
 
 </div>
+
+---
+
+## About Me
+
+I have over 25 years of development experience.  Yes, I am that old.  I am also an avid investor in startups.  I am passionate about DeFi, so much so that I have most of my funds invested.
+
+### Qualifications
+
+- Bachelor and PhD in Computer Science
+- Post Graduate Diploma in Artificial Intelligence
+- Certified as an Ethereum Developer
+- Technical Co-Founder for several successful startups
+
+Contact me on Telegram if you have a cool project.  [@jiyosub](https://t.me/jiyosub)
