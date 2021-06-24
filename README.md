@@ -39,7 +39,7 @@ I believe in standing on the shoulders of giants.  In this case, OpenZeppelin's 
 
 **Jenkins, Mocha, Jest, PyTest**
 
-Test Driven Development (TDD) and Continuous Integration (CI) with Jenkins.  The first thing I will do in a project is set up automated testing.  This becomes even more important when you consider the you can't update a smart contract after deployment.  Better get it right.
+Test Driven Development (TDD) and Continuous Integration (CI) with Jenkins.  The first thing I will do in a project is set up automated testing.  Testing becomes even more critical when you consider that you can't update a smart contract after deployment.  Better get it right.  Every check in to GitHub results in the entire test suite being run on the codebase.  
 
 </div>
 
