@@ -30,6 +30,7 @@ For heavy backend lifting, I prefer the python stack.  Especially for any AI wor
 <img src="images/htgoz.png" alt="mern" width="180"/>
 
 **Hardhat, Truffle, Ganache, OpenZeppelin**
+
 For development of Smart Contracts, I am a fan of both the Hardhat and Truffle suites.  Each has some advantages: Hardhat is easy to use and you can fork chains quickly; Truffle has an elegant UI and some friendly debugging tools.  I won't pick either side in this debate.
 
 I believe in standing on the shoulders of giants.  In this case, OpenZeppelin's smart contract templates and interfaces.  Well tested and secure, so they are my go-to to start a project.
@@ -37,6 +38,7 @@ I believe in standing on the shoulders of giants.  In this case, OpenZeppelin's 
 <img src="images/jmjp.png" alt="mern" width="180"/>
 
 **Jenkins, Mocha, Jest, PyTest**
+
 Test Driven Development (TDD) and Continuous Integration (CI) with Jenkins.  The first thing I will do in a project is set up automated testing.  This becomes even more important when you consider the you can't update a smart contract after deployment.  Better get it right.
 
 </div>
