@@ -3,7 +3,7 @@
 ---
 <div align=left>
 
-### Hello! I'm Joe, a full stack DeFi developer
+### Hello! I'm Joe, a certified full stack DeFi developer
 
 Technology I like to use:
 
