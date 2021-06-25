@@ -57,3 +57,5 @@ I have over 25 years of development experience.  Yes, I am that old.  I am also 
 - Technical Co-Founder for several successful startups
 
 Contact me on Telegram if you have a cool project.  Let's chat!  [@jiyosub](https://t.me/jiyosub)
+
+![](https://komarev.com/ghpvc/?username=jiyosub&color=blueviolet)
