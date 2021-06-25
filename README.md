@@ -55,6 +55,7 @@ I have over 25 years of development experience.  Yes, I am that old.  I am also 
 - Post Graduate Diploma in Artificial Intelligence
 - Certified as an Ethereum Developer
 - Technical Co-Founder for several successful startups
+- Managed local and remote teams of over 160 people
 
 Contact me on Telegram if you have a cool project.  Let's chat!  [@jiyosub](https://t.me/jiyosub)
 
