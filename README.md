@@ -31,7 +31,7 @@ For heavy backend lifting, I prefer the python stack.  Especially for any **AI**
 
 **Hardhat, Truffle, Ganache, OpenZeppelin**
 
-I am a fan of both the Hardhat and Truffle suites For the development of Smart Contracts / DApps.  Each has some advantages: Hardhat is easy to use and you can fork chains quickly; Truffle has an elegant UI and some friendly debugging tools.  I won't pick either side in this debate.
+I am a fan of both the Hardhat and Truffle suites For the development of Smart Contracts / DApps.  Each has some advantages: Hardhat is easy to use , can fork chains quickly, and support Typescript; Truffle has an elegant UI and some friendly debugging tools.  I won't pick either side in this debate.
 
 I believe in standing on the shoulders of giants.  In this case, OpenZeppelin's smart contract templates and interfaces.  Well tested and secure, so they are my go-to to start a project.
 
