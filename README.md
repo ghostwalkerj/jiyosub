@@ -54,7 +54,7 @@ I have over 25 years of development experience. Yes, I am that old. I am also an
 
 -   Bachelor and PhD in Computer Science
 -   Post Graduate Diploma in Artificial Intelligence
--   Certified as an Ethereum Developer - [See Credential](https://www.btacertified.com/dlink/0x0064de6874949c2a8d9180fe254d93e09847cd3b82a2199e22a6362620c42140/certdisplay)
+-   Certified as an Ethereum Developer
 -   Technical Co-Founder for several successful startups
 -   Managed local and remote teams of over 160 people
 
