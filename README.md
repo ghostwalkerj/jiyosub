@@ -71,7 +71,7 @@ My pay can be negotiated based on the project.  Show me something innovated and 
 
 Contact me and let's chat:
 
-- Telegram [@deadzuo](https://t.me/deadzuo)
+- Telegram [@neonjesus](https://t.me/neonjesus)
 - Discord `deadzuo#4195`
 - Matrix [@doczed:blazetrade.xyz](https://matrix.to/#/@doczed:blazetrade.xyz)
 
